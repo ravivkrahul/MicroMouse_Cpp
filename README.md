@@ -42,40 +42,24 @@ Implemented using **C++17** and **ROS2 Humble**.
 
 ## 🎥 Demo Videos
 
-### ✅ Standalone Mode — Parameter Driven Navigation
+▶ **Standalone Mode — Parameter Driven Navigation**  
+Robot autonomously navigates using YAML parameters.
 
-Robot autonomously navigates using goals defined in YAML parameters.
-
-<video width="100%" controls>
-  <source src="demo/standalone_mode.webm" type="video/webm">
-</video>
-
-▶ Direct Link: [Open Video](demo/standalone_mode.webm)
+https://drive.google.com/file/d/1waRerJLt2jLln7QhuRSUskyUhr7DzHM7/view?usp=drive_link
 
 ---
 
-### ✅ Action Client / Action Server Interaction
+▶ **Service Client Interaction — ROS2 Service Communication**  
+External node querying robot state via ROS2 services.
 
-Goal-based navigation demonstrating ROS2 long-running task execution with feedback and cancellation.
-
-<video width="100%" controls>
-  <source src="demo/action_client.webm" type="video/webm">
-</video>
-
-▶ Direct Link: [Open Video](demo/action_client.webm)
+https://drive.google.com/file/d/1nG0ZKsFmCJiQJ5onwTpMKooXybwtHEL1/view?usp=drive_link
 
 ---
 
-### ✅ Service Client Interaction
+▶ **Action Client / Action Server Interaction — Goal-Based Navigation**  
+Goal-driven navigation demonstrating ROS2 Actions, feedback, and cancellation.
 
-External node querying robot state using ROS2 service communication.
-
-<video width="100%" controls>
-  <source src="demo/service_client.webm" type="video/webm">
-</video>
-
-▶ Direct Link: [Open Video](demo/service_client.webm)
-
+https://drive.google.com/file/d/1msblbBuDRnCMMHjjYTiJ9KUk_LyJcBGa/view?usp=drive_link
 ---
 
 ## 🛠 Technologies Used
