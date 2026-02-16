@@ -86,13 +86,4 @@ External node querying robot state using ROS2 service communication.
 - **Custom ROS2 Interfaces**
 - **MMS Simulator**
 
----
 
-## ⚙ Example Commands
-
-**Run Core Node (Standalone Mode)**
-
-```bash
-ros2 run micromouse_cpp micromouse_node --ros-args \
-  -p standalone_mode:=true \
-  --params-file config/params.yaml
