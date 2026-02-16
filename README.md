@@ -1,8 +1,5 @@
-# MicroMouse_C-
-ROS2-based MicroMouse robot navigation using DFS with dynamic replanning. Implements Actions, Services, Topics, and YAML Parameters in C++17 with MMS simulator integration.
 # ROS2 MicroMouse Robot Navigation (C++17)
-
-DFS-Based Maze Exploration with Dynamic Replanning using ROS2
+ROS2-based MicroMouse robot navigation using DFS with dynamic replanning. Implements Actions, Services, Topics, and YAML Parameters in C++17 with MMS simulator integration.
 
 ---
 
