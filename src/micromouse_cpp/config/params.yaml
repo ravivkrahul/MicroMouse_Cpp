@@ -1,0 +1,8 @@
+#TODO: Implement the file
+/micromouse_node:
+  ros__parameters:
+    goal_x: 10
+    goal_y: 12
+    path_color: "g"
+    goal_color: "y"
+    standalone_mode: true
